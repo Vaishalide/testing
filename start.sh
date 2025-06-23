@@ -1,0 +1,3 @@
+#!/bin/bash
+playwright install chromium
+gunicorn main:app --bind 0.0.0.0:$PORT
