@@ -1,3 +1,4 @@
 Flask
-seleniumbase
 gunicorn
+seleniumbase
+playwright  # ← THIS IS MISSING
